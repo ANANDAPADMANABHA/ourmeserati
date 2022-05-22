@@ -1,0 +1,99 @@
+.logo{
+    padding-left: 4rem;
+    height:3.5rem;
+    padding-right: 4rem;
+}
+.search-icon{
+    padding-top:10px;
+    height: 3rem;
+    padding-left:30px;
+}
+
+.nav-getintouch{
+    line-height: 1rem;
+    text-align: center;
+    padding-right: 2rem;
+    padding-top: 2rem;
+}
+
+.search{
+    padding-right: 2rem;
+}
+
+.getintouch-color{
+    background: #0c2340;
+    color: #ffff;
+    font-family: Univers47, sans-serif ;
+    font-size: 12px;
+    line-height: 13.68px;
+    letter-spacing: 0.48px;
+    text-align: center;
+}
+
+.get{
+    padding-left: 1rem;
+}
+
+.dealer-color{
+    background: #f2f1f0;
+}
+
+
+
+
+.models{
+    font-family: Univers47, sans-serif;
+    font-size: 42px;
+    line-height: 46.2px;
+    text-align: start;
+    letter-spacing: -0.84px;
+    padding: 38px;
+    
+}
+
+.models-rest{
+    font-family: Univers45, sans-serif;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: -0.36px;
+    padding: 49px;
+    
+
+}
+
+.row__poster{
+    width: 100%;
+    object-fit: contain;
+    max-height: 100px;
+    margin-right: 10px;
+    transition: transform 450ms;
+
+}
+
+.row__posters{
+    display:flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 20px;
+}
+
+.row__posterLarge{
+    max-height: 300px;
+}
+
+.getintouch-button{
+    background: #0c2340;
+    color: #ffff;
+    width: 7%;
+    height: 40px;
+    
+}
+
+.footer-list{
+    list-style-type: none;
+}
+.bd{
+    border-right: 1px solid  #6c6c6c
+    
+}
+
